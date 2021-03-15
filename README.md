@@ -1,5 +1,5 @@
-# allure-attachments-cleaner
-Script to free space from unnecessary allure attachments.
+# allure-report-attachments-cleaner
+Script to free space from unnecessary AllureReport attachments.
 
 ### Usage example
 Execute python script file with python and send it AllureReport path and status to filter attachments you want to remove.
