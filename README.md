@@ -1,4 +1,9 @@
 # allure-report-attachments-cleaner
+![views](https://raw.githubusercontent.com/aleksandr-kotlyar/allure-report-attachments-cleaner/traffic-2021/traffic-allure-report-attachments-cleaner/views.svg)
+![views](https://raw.githubusercontent.com/aleksandr-kotlyar/allure-report-attachments-cleaner/traffic-2021/traffic-allure-report-attachments-cleaner/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/aleksandr-kotlyar/allure-report-attachments-cleaner/traffic-2021/traffic-allure-report-attachments-cleaner/clones.svg)
+![clones](https://raw.githubusercontent.com/aleksandr-kotlyar/allure-report-attachments-cleaner/traffic-2021/traffic-allure-report-attachments-cleaner/clones_per_week.svg)
+
 Script to free space from unnecessary AllureReport attachments.
 
 ### Usage example
