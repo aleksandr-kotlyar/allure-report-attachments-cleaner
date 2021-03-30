@@ -2,20 +2,8 @@
   {
     "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner",
     "title": "GitHub - aleksandr-kotlyar/allure-report-attachments-cleaner: Script to free ...",
-    "count": 28,
+    "count": 13,
     "uniques": 4
-  },
-  {
-    "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/pulse",
-    "title": "Pulse · aleksandr-kotlyar/allure-report-attachments-cleaner",
-    "count": 8,
-    "uniques": 1
-  },
-  {
-    "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/graphs/traffic",
-    "title": "Traffic · aleksandr-kotlyar/allure-report-attachments-cleaner",
-    "count": 7,
-    "uniques": 1
   },
   {
     "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/blob/master/allure_attachments_cleaner.py",
@@ -24,8 +12,14 @@
     "uniques": 1
   },
   {
-    "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/actions",
-    "title": "Actions · aleksandr-kotlyar/allure-report-attachments-cleaner",
+    "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/pulse",
+    "title": "Pulse · aleksandr-kotlyar/allure-report-attachments-cleaner",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/graphs/traffic",
+    "title": "Traffic · aleksandr-kotlyar/allure-report-attachments-cleaner",
     "count": 2,
     "uniques": 1
   },
@@ -38,24 +32,6 @@
   {
     "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/commits/master",
     "title": "Commits · aleksandr-kotlyar/allure-report-attachments-cleaner",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/issues",
-    "title": "Issues · aleksandr-kotlyar/allure-report-attachments-cleaner",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/issues/new",
-    "title": "New Issue · aleksandr-kotlyar/allure-report-attachments-cleaner",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/new/master",
-    "title": "New File",
     "count": 1,
     "uniques": 1
   }
