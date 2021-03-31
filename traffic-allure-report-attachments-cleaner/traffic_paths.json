@@ -1,37 +1,25 @@
 [
   {
     "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner",
-    "title": "GitHub - aleksandr-kotlyar/allure-report-attachments-cleaner: Script to free ...",
-    "count": 13,
-    "uniques": 4
+    "title": "aleksandr-kotlyar/allure-report-attachments-cleaner: Script to free space fro...",
+    "count": 9,
+    "uniques": 3
   },
   {
     "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/blob/master/allure_attachments_cleaner.py",
     "title": "allure-report-attachments-cleaner/allure_attachments_cleaner.py at master · a...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/pulse",
-    "title": "Pulse · aleksandr-kotlyar/allure-report-attachments-cleaner",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/graphs/traffic",
-    "title": "Traffic · aleksandr-kotlyar/allure-report-attachments-cleaner",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/blob/master/README.md",
-    "title": "allure-report-attachments-cleaner/README.md at master · aleksandr-kotlyar/all...",
-    "count": 1,
     "uniques": 1
   },
   {
     "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/commits/master",
     "title": "Commits · aleksandr-kotlyar/allure-report-attachments-cleaner",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/pulse",
+    "title": "Pulse · aleksandr-kotlyar/allure-report-attachments-cleaner",
     "count": 1,
     "uniques": 1
   }
