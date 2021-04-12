@@ -2,18 +2,24 @@
   {
     "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner",
     "title": "aleksandr-kotlyar/allure-report-attachments-cleaner: Script to free space fro...",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/issues",
-    "title": "Issues · aleksandr-kotlyar/allure-report-attachments-cleaner",
-    "count": 2,
+    "count": 6,
     "uniques": 1
   },
   {
     "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/issues/1",
     "title": "Clean all passed attachments except last successful. · Issue #1 · aleksandr-k...",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/blob/master/allure_attachments_cleaner.py",
+    "title": "allure-report-attachments-cleaner/allure_attachments_cleaner.py at master · a...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/issues",
+    "title": "Issues · aleksandr-kotlyar/allure-report-attachments-cleaner",
     "count": 2,
     "uniques": 1
   },
@@ -32,6 +38,12 @@
   {
     "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/pulse",
     "title": "Pulse · aleksandr-kotlyar/allure-report-attachments-cleaner",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/aleksandr-kotlyar/allure-report-attachments-cleaner/tree/master/.github/workflows",
+    "title": "allure-report-attachments-cleaner/.github/workflows at master · aleksandr-kot...",
     "count": 1,
     "uniques": 1
   }
